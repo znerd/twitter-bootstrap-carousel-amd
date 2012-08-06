@@ -10,4 +10,4 @@ BUG REPORTS AND FEATURE REQUESTS
 
 If you want to file a bug report or a feature request, please do so here:
 
-   http://github.com/znerd/twitter-bootstrap-carousel/issues
+   http://github.com/znerd/twitter-bootstrap-carousel-amd/issues
