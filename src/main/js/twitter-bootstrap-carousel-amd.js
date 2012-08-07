@@ -1,5 +1,5 @@
 /*global $, define */
 
-define("jquery", function() {
+define("twitter-bootstrap-carousel", function() {
     return $;
 });
